@@ -29,7 +29,7 @@ We used random forest model to check whether the full blood counts could predict
 ![food](food-pyramid.jpg)
 We wanted to analyse the data to see if healthy diet plays a factor in low death rate due to COVID-19.
 We read the Food_Supply_Quantity_kg_Data.csv using Pandas. This dataset includes percentage of food intake (kg) in countries around the world.
-We dropped the columns that we were not interested in. Loaded the John Hopkins confirmed cases and deaths csvs. We merges all the three csvs after clean up.
+We dropped the columns that we were not interested in. Loaded the John Hopkins confirmed cases and deaths CSVs. We merges all the three csvs after clean up.
 We also calculated the positive rate and the death rates. 
 After analysis we saw that:
 Differences in Death Rate can be caused by:
