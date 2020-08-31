@@ -1,5 +1,5 @@
 # ML_COVID-19_Analysis
-##LINK to website https://yaluzhou.github.io/Project3/
+## LINK to website https://yaluzhou.github.io/Project3/
 
 ![covid](GettyImages-1214886737_e4ebdc2f-6f02-44dc-9714-f55b850b58c9-prv.jpg)
 
