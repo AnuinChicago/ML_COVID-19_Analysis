@@ -41,7 +41,7 @@ Differences in Death Rate can be caused by:
   
  ## Machine Learning
  We ran a Random Forrest regression model and got a score of 0.787.
- Looking at the feature importances, we can see that Animal fats, Sugar and Alcoholic beverges seem to have a high importance in predicting Deaths.
+ Looking at the feature importances, we can see that Animal fats, Sugar and Alcoholic beverges seem to have a high importance in predicting deaths.
  
  ## Tableau
  Visualizations were created for this dataset. We saw a similar result as above in the process. 
