@@ -15,7 +15,7 @@ https://www.kaggle.com/mariaren/covid19-healthy-diet-dataset
 -Covid-19 Data from John Hopkins  
 https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series
 
-# Question1 Can you predict the severity of COVID-19 from a full blood panel?
+# Question1: Can you predict the severity of COVID-19 from a full blood panel?
 ![blood](shutterstock_1114244621.jpg)
 
 Since the pandemic of COVID-19, the prediction of the disease severeness is a challenge to the whole world. Because early symptoms of COVID-19 infection overlap with many other common respiratory diseases, we decided to use a full blood panel to predict the disease prognosis.
