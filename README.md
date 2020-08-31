@@ -15,6 +15,7 @@ https://www.kaggle.com/mariaren/covid19-healthy-diet-dataset
 https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series
 
 # Question1 Can you predict the severity of COVID-19 from a full blood panel?
+![blood](shutterstock_1114244621.jpg)
 
 Since the pandemic of COVID-19, the prediction of the disease severeness is a challenge to the whole world. Because early symptoms of COVID-19 infection overlap with many other common respiratory diseases, we decided to use a full blood panel to predict the disease prognosis.
 The second part of the analysis came with the background of many research paper have reported that high serum glucose level is associated with worth prognosis in COVID-19 positive patient. We were wondering whether we could use the serum glucose level in our dataset to predict the outcome of COVID-19 infection.
