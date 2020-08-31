@@ -6,13 +6,13 @@
 ## Data Cleaning and Exploration
 
 ### Data Sets
--Covid-19 Blood Panel Data 
+1.Covid-19 Blood Panel Data 
 https://www.kaggle.com/einsteindata4u/covid19
 
--Covid-19 Healthy Diet
+2.Covid-19 Healthy Diet
 https://www.kaggle.com/mariaren/covid19-healthy-diet-dataset
 
--Covid-19 Data from John Hopkins  
+3.Covid-19 Data from John Hopkins  
 https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series
 
 # Question1: Can you predict the severity of COVID-19 from a full blood panel?
